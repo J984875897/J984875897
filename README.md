@@ -63,16 +63,6 @@
 
 ---
 
-## GitHub 统计 / GitHub Stats
-
-<div align="center">
-
-![Junjia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j984875897&show_icons=true&theme=calm&hide_border=true&count_private=true)
-
-</div>
-
----
-
 ## 联系我 / Contact
 
 📧 **Email:** junjia0802@hotmail.com  
