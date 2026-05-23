@@ -67,9 +67,7 @@
 
 <div align="center">
 
-![Junjia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j984875897&show_icons=true&theme=calm&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j984875897&layout=compact&theme=calm&hide_border=true)
+![Junjia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j984875897&show_icons=true&theme=calm&hide_border=true&count_private=true)
 
 </div>
 
